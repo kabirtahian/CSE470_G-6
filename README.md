@@ -446,3 +446,4 @@ flow still completes — `confirm()` re-verifies with Stripe server-side.
   real SMS OTP.
 - The AI assistant answers questions and explains the system; it cannot take
   actions (approve, disburse, pay) by design.
+
